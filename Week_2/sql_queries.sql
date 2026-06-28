@@ -1,3 +1,26 @@
+/*
+------------------------------------------------------------
+
+Submission Contents:
+1. sql_queries.sql               -> Contains all SQL queries.
+2. ecommerce_sales_database.ipynb -> Contains database creation,
+   query execution, query results, and business insights.
+3. ecommerce.db                  -> SQLite database used for analysis.
+
+Note:
+
+The corresponding query outputs and analysis are available in
+'ecommerce_sales_database.ipynb'  Please check that file for Outputs.
+This SQL file contains only executable SQL queries.
+
+
+Author: Gaurav Gaikwad
+------------------------------------------------------------
+*/
+
+
+
+
 -- Q1
 SELECT * FROM customers;
 
