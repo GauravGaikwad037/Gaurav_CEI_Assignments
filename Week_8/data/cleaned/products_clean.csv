@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Monitor,Electronics,Practice,4300.04
+P0002,Python Book,Books,Receive,2328.5
+P0003,Shirt,Clothing,Follow,3317.16
+P0004,Table,Home,Rule,393.63
+P0005,Jeans,Clothing,Pattern,2028.41
+P0006,Shirt,Clothing,Claim,933.91
+P0007,Shirt,Clothing,Others,1761.15
+P0008,Jeans,Clothing,Our,2581.54
+P0009,Lamp,Home,His,3558.49
+P0010,Mouse,Electronics,System,396.37
+P0011,Jacket,Clothing,Four,4247.68
+P0012,Jacket,Clothing,Later,2071.54
+P0013,Lamp,Home,Concern,680.07
+P0014,Lamp,Home,Above,3402.72
+P0015,Ai Handbook,Books,Form,2060.07
+P0016,Keyboard,Electronics,Employee,2177.95
+P0017,Jeans,Clothing,Stock,3394.35
+P0018,Lamp,Home,Do,1454.74
+P0019,Shirt,Clothing,Seem,3768.13
+P0020,Shirt,Clothing,Sister,779.4
+P0021,Mouse,Electronics,Put,3075.81
+P0022,Monitor,Electronics,Least,3167.34
+P0023,Ai Handbook,Books,Factor,2497.17
+P0024,Python Book,Books,Though,77.45
+P0025,Monitor,Electronics,Here,4030.34
+P0026,Chair,Home,Center,4591.48
+P0027,Monitor,Electronics,Respond,3354.51
+P0028,Jeans,Clothing,Significant,3610.41
+P0029,Lamp,Home,Glass,837.83
+P0030,Table,Home,Understand,1273.84
+P0031,Jacket,Clothing,Media,1234.27
+P0032,Chair,Home,Maintain,1210.74
+P0033,Jeans,Clothing,Like,448.86
+P0034,Python Book,Books,Her,806.39
+P0035,Python Book,Books,Stage,1687.86
+P0036,Table,Home,Focus,1977.91
+P0037,Monitor,Electronics,Message,4716.57
+P0038,Jeans,Clothing,Ok,4769.48
+P0039,Lamp,Home,Boy,2753.35
+P0040,Sql Guide,Books,Continue,2207.39
+P0041,Monitor,Electronics,Race,3411.75
+P0042,Lamp,Home,Policy,4601.73
+P0043,Monitor,Electronics,Beat,3331.85
+P0044,Monitor,Electronics,Thought,949.56
+P0045,Jeans,Clothing,Fast,2300.76
+P0046,Jeans,Clothing,Town,4758.46
+P0047,Table,Home,The,2378.02
+P0048,Keyboard,Electronics,Challenge,389.66
+P0049,Laptop,Electronics,Vote,1036.84
+P0050,Mouse,Electronics,Nothing,2394.13
+P0051,Mouse,Electronics,Debate,1318.41
+P0052,Shirt,Clothing,Everyone,4820.49
+P0053,Mouse,Electronics,Similar,585.09
+P0054,Keyboard,Electronics,Various,4544.73
+P0055,Table,Home,Produce,1031.73
+P0056,Python Book,Books,Ball,1542.83
+P0057,Laptop,Electronics,Short,2170.47
+P0058,Shirt,Clothing,Bag,1739.09
+P0059,Table,Home,Wait,3196.15
+P0060,Lamp,Home,After,3682.29
+P0061,Jacket,Clothing,Time,2713.96
+P0062,Table,Home,Movement,3668.58
+P0063,Jeans,Clothing,Program,4162.12
+P0064,Keyboard,Electronics,Allow,1257.12
+P0065,Lamp,Home,Tax,1926.0
+P0066,Monitor,Electronics,Party,950.11
+P0067,Sql Guide,Books,Particular,1734.68
+P0068,Jacket,Clothing,Interview,473.78
+P0069,Table,Home,Specific,1239.6
+P0070,Lamp,Home,Performance,2268.46
+P0071,Laptop,Electronics,Difference,2051.79
+P0072,Sql Guide,Books,What,1876.65
+P0073,Jeans,Clothing,Although,2774.42
+P0074,Jacket,Clothing,Ok,1567.78
+P0075,Python Book,Books,Ever,1611.96
+P0076,Python Book,Books,Of,2446.78
+P0077,Shirt,Clothing,Wall,1516.42
+P0078,Shirt,Clothing,Notice,3554.69
+P0079,Sql Guide,Books,Marriage,2789.13
+P0080,Ai Handbook,Books,Ready,2479.85
+P0081,Keyboard,Electronics,Stage,2230.32
+P0082,Python Book,Books,Church,4315.53
+P0083,Laptop,Electronics,History,416.71
+P0084,Mouse,Electronics,Including,471.65
+P0085,Python Book,Books,Dog,2110.06
+P0086,Ai Handbook,Books,Vote,4547.1
+P0087,Jacket,Clothing,Sport,1561.63
+P0088,Laptop,Electronics,Perform,1078.55
+P0089,Sql Guide,Books,Significant,827.43
+P0090,Ai Handbook,Books,Tough,2072.16
+P0091,Table,Home,Fill,3549.43
+P0092,Chair,Home,Center,4623.36
+P0093,Sql Guide,Books,Majority,3255.79
+P0094,Shirt,Clothing,More,3973.51
+P0095,Jeans,Clothing,Mrs,3513.68
+P0096,Jacket,Clothing,Believe,2216.91
+P0097,Monitor,Electronics,Industry,3038.38
+P0098,Laptop,Electronics,Himself,3387.78
+P0099,Keyboard,Electronics,Morning,3827.39
+P0100,Sql Guide,Books,Action,2239.04
+P0101,Shirt,Clothing,Recognize,2207.63
+P0102,Chair,Home,Edge,2071.32
+P0103,Jacket,Clothing,Thus,1682.53
+P0104,Table,Home,Sure,2032.24
+P0105,Monitor,Electronics,Positive,1650.21
+P0106,Lamp,Home,Return,55.7
+P0107,Table,Home,Company,3132.04
+P0108,Lamp,Home,Sometimes,305.48
+P0109,Jacket,Clothing,My,2218.67
+P0110,Chair,Home,Challenge,3563.42
+P0111,Jacket,Clothing,Like,511.39
+P0112,Monitor,Electronics,Collection,3256.16
+P0113,Sql Guide,Books,Country,1494.71
+P0114,Jeans,Clothing,Others,4902.21
+P0115,Sql Guide,Books,Others,1948.75
+P0116,Python Book,Books,Receive,3960.53
+P0117,Table,Home,Turn,2563.3
+P0118,Keyboard,Electronics,Child,4195.51
+P0119,Chair,Home,Simply,2447.49
+P0120,Jacket,Clothing,Sign,1917.19
+P0121,Shirt,Clothing,Member,1232.09
+P0122,Chair,Home,Wrong,2083.34
+P0123,Jacket,Clothing,Her,4571.48
+P0124,Table,Home,Amount,3972.35
+P0125,Sql Guide,Books,Discuss,674.92
+P0126,Shirt,Clothing,Sort,2229.52
+P0127,Chair,Home,Method,2079.39
+P0128,Python Book,Books,Each,4847.56
+P0129,Jacket,Clothing,At,3266.69
+P0130,Jacket,Clothing,Everything,1931.05
+P0131,Jacket,Clothing,Hope,3809.04
+P0132,Laptop,Electronics,East,3437.78
+P0133,Shirt,Clothing,And,2198.16
+P0134,Laptop,Electronics,Relate,3485.31
+P0135,Laptop,Electronics,Design,327.79
+P0136,Jeans,Clothing,National,1258.78
+P0137,Lamp,Home,Whatever,941.28
+P0138,Python Book,Books,Strong,1943.59
+P0139,Sql Guide,Books,Herself,758.43
+P0140,Lamp,Home,Important,1313.87
+P0141,Monitor,Electronics,Manager,3404.17
+P0142,Python Book,Books,Whose,1760.55
+P0143,Jacket,Clothing,Look,3467.05
+P0144,Table,Home,Upon,4274.01
+P0145,Mouse,Electronics,Any,1826.85
+P0146,Jacket,Clothing,Among,4890.83
+P0147,Table,Home,Range,4557.55
+P0148,Table,Home,Game,1189.09
+P0149,Shirt,Clothing,Board,3123.41
+P0150,Ai Handbook,Books,Score,1579.22
+P0151,Chair,Home,Near,3675.18
+P0152,Keyboard,Electronics,Property,2106.74
+P0153,Python Book,Books,Themselves,4388.48
+P0154,Jacket,Clothing,Eye,1399.01
+P0155,Sql Guide,Books,They,4723.73
+P0156,Jacket,Clothing,Site,4030.95
+P0157,Chair,Home,Everyone,4307.7
+P0158,Lamp,Home,Particular,3963.88
+P0159,Keyboard,Electronics,Off,2301.19
+P0160,Jacket,Clothing,Over,3210.82
+P0161,Shirt,Clothing,Contain,2383.81
+P0162,Jacket,Clothing,However,362.92
+P0163,Lamp,Home,Ready,2071.06
+P0164,Python Book,Books,Human,1556.6
+P0165,Chair,Home,History,1973.8
+P0166,Jacket,Clothing,People,3497.6
+P0167,Lamp,Home,Ready,814.89
+P0168,Lamp,Home,Water,3097.48
+P0169,Shirt,Clothing,Thing,1125.48
+P0170,Chair,Home,Bank,541.81
+P0171,Jacket,Clothing,Nation,3241.89
+P0172,Monitor,Electronics,Enter,4842.62
+P0173,Chair,Home,However,3226.44
+P0174,Laptop,Electronics,Whatever,1255.67
+P0175,Ai Handbook,Books,Dog,4157.6
+P0176,Ai Handbook,Books,Name,4354.99
+P0177,Shirt,Clothing,Into,3000.11
+P0178,Shirt,Clothing,Head,2724.07
+P0179,Python Book,Books,Technology,177.61
+P0180,Keyboard,Electronics,Trip,1227.76
+P0181,Shirt,Clothing,Hair,677.45
+P0182,Lamp,Home,Message,2407.42
+P0183,Jacket,Clothing,Structure,2287.43
+P0184,Ai Handbook,Books,Meet,2317.31
+P0185,Laptop,Electronics,Very,4244.13
+P0186,Lamp,Home,Pm,413.78
+P0187,Keyboard,Electronics,According,375.13
+P0188,Jacket,Clothing,More,2764.36
+P0189,Jeans,Clothing,Us,2676.26
+P0190,Lamp,Home,Chair,540.93
+P0191,Mouse,Electronics,Less,4446.05
+P0192,Table,Home,Company,2023.71
+P0193,Keyboard,Electronics,Drug,3342.28
+P0194,Shirt,Clothing,Ball,2397.63
+P0195,Laptop,Electronics,My,3735.72
+P0196,Shirt,Clothing,Question,2953.0
+P0197,Jacket,Clothing,Fast,4374.36
+P0198,Lamp,Home,Development,3022.03
+P0199,Shirt,Clothing,Citizen,1103.06
+P0200,Chair,Home,Culture,1783.06
+P0201,Shirt,Clothing,Coach,2891.8
+P0202,Lamp,Home,High,4101.21
+P0203,Keyboard,Electronics,Play,3528.36
+P0204,Jeans,Clothing,Series,947.96
+P0205,Ai Handbook,Books,Technology,394.45
+P0206,Laptop,Electronics,By,1114.91
+P0207,Table,Home,Recent,1881.76
+P0208,Jacket,Clothing,Drug,4422.54
+P0209,Python Book,Books,Join,296.32
+P0210,Keyboard,Electronics,Talk,2148.87
+P0211,Table,Home,Give,3786.97
+P0212,Keyboard,Electronics,Service,1452.07
+P0213,Lamp,Home,Build,274.82
+P0214,Lamp,Home,Meet,1542.03
+P0215,Python Book,Books,Republican,1482.76
+P0216,Laptop,Electronics,Measure,2181.74
+P0217,Sql Guide,Books,Measure,1189.05
+P0218,Shirt,Clothing,Develop,3723.1
+P0219,Chair,Home,Performance,435.42
+P0220,Jacket,Clothing,Color,2051.89
+P0221,Table,Home,Radio,4832.69
+P0222,Ai Handbook,Books,These,3463.57
+P0223,Shirt,Clothing,Item,574.02
+P0224,Lamp,Home,Age,439.3
+P0225,Jacket,Clothing,Either,1698.69
+P0226,Python Book,Books,Animal,614.43
+P0227,Sql Guide,Books,Care,4793.21
+P0228,Python Book,Books,Painting,1026.5
+P0229,Ai Handbook,Books,Person,2346.57
+P0230,Lamp,Home,College,2844.23
+P0231,Jacket,Clothing,Center,2226.83
+P0232,Table,Home,Professional,3991.83
+P0233,Keyboard,Electronics,Music,1586.52
+P0234,Chair,Home,Among,429.82
+P0235,Monitor,Electronics,Vote,2793.87
+P0236,Monitor,Electronics,Page,2879.7
+P0237,Sql Guide,Books,Choice,2531.77
+P0238,Monitor,Electronics,Arrive,4912.81
+P0239,Mouse,Electronics,Compare,4955.38
+P0240,Sql Guide,Books,Evening,1450.32
+P0241,Table,Home,Win,309.21
+P0242,Shirt,Clothing,Couple,2811.92
+P0243,Table,Home,Nation,4265.25
+P0244,Sql Guide,Books,Into,4587.89
+P0245,Jacket,Clothing,Place,1990.19
+P0246,Keyboard,Electronics,Organization,3235.29
+P0247,Shirt,Clothing,Public,4153.35
+P0248,Monitor,Electronics,After,140.24
+P0249,Shirt,Clothing,Unit,1741.58
+P0250,Chair,Home,Serve,730.95
+P0251,Keyboard,Electronics,Should,550.65
+P0252,Keyboard,Electronics,Recently,3109.26
+P0253,Chair,Home,Term,3619.86
+P0254,Monitor,Electronics,Federal,3611.95
+P0255,Lamp,Home,Your,3755.26
+P0256,Chair,Home,Bed,1581.87
+P0257,Chair,Home,Direction,4738.29
+P0258,Table,Home,List,3901.71
+P0259,Chair,Home,Policy,4016.23
+P0260,Sql Guide,Books,Market,4376.88
+P0261,Laptop,Electronics,Trip,3827.43
+P0262,Jeans,Clothing,Meet,779.38
+P0263,Chair,Home,Conference,1149.09
+P0264,Table,Home,Discuss,2103.74
+P0265,Lamp,Home,Then,1961.52
+P0266,Keyboard,Electronics,Item,1627.49
+P0267,Keyboard,Electronics,Plant,731.12
+P0268,Jeans,Clothing,Character,737.02
+P0269,Table,Home,Study,4533.99
+P0270,Keyboard,Electronics,Pass,790.12
+P0271,Chair,Home,Tend,1226.32
+P0272,Laptop,Electronics,Speak,3212.81
+P0273,Chair,Home,Court,3003.86
+P0274,Mouse,Electronics,Price,1491.8
+P0275,Keyboard,Electronics,Receive,2112.01
+P0276,Keyboard,Electronics,Much,1982.75
+P0277,Chair,Home,Everything,4906.15
+P0278,Jacket,Clothing,Computer,1756.77
+P0279,Keyboard,Electronics,Shake,2752.77
+P0280,Ai Handbook,Books,Rich,3492.18
+P0281,Python Book,Books,Guess,233.07
+P0282,Python Book,Books,Win,4434.66
+P0283,Jeans,Clothing,Long,4946.16
+P0284,Table,Home,Pick,1466.25
+P0285,Keyboard,Electronics,Performance,4006.74
+P0286,Table,Home,Authority,4478.46
+P0287,Table,Home,Drug,2506.21
+P0288,Table,Home,Human,2620.42
+P0289,Monitor,Electronics,Image,2750.1
+P0290,Shirt,Clothing,Cause,1567.15
+P0291,Chair,Home,Boy,1790.16
+P0292,Keyboard,Electronics,Admit,2202.96
+P0293,Laptop,Electronics,Degree,2060.74
+P0294,Python Book,Books,Necessary,222.25
+P0295,Mouse,Electronics,Trade,1863.33
+P0296,Lamp,Home,Where,3411.36
+P0297,Jeans,Clothing,Mother,430.58
+P0298,Ai Handbook,Books,Return,1606.21
+P0299,Shirt,Clothing,Kind,178.27
+P0300,Sql Guide,Books,The,4572.04
+P0301,Keyboard,Electronics,Citizen,3534.99
+P0302,Ai Handbook,Books,Police,4586.57
+P0303,Chair,Home,Big,2287.61
+P0304,Chair,Home,Cost,4839.43
+P0305,Jacket,Clothing,Maybe,371.45
+P0306,Jeans,Clothing,Week,3573.46
+P0307,Sql Guide,Books,Possible,650.74
+P0308,Python Book,Books,Plan,2495.41
+P0309,Jacket,Clothing,American,2363.66
+P0310,Ai Handbook,Books,Understand,375.45
+P0311,Lamp,Home,Step,2652.19
+P0312,Lamp,Home,Night,3229.58
+P0313,Table,Home,Most,1755.35
+P0314,Python Book,Books,Soldier,4558.03
+P0315,Laptop,Electronics,Buy,1555.42
+P0316,Sql Guide,Books,Better,1166.08
+P0317,Shirt,Clothing,Meet,3193.53
+P0318,Shirt,Clothing,Receive,3091.42
+P0319,Mouse,Electronics,Case,2924.2
+P0320,Ai Handbook,Books,Week,4514.9
+P0321,Jacket,Clothing,Player,452.05
+P0322,Jacket,Clothing,Notice,2882.08
+P0323,Monitor,Electronics,Their,2750.61
+P0324,Jeans,Clothing,Ability,4046.38
+P0325,Table,Home,Watch,3458.64
+P0326,Sql Guide,Books,Writer,2348.99
+P0327,Jacket,Clothing,Stage,3684.29
+P0328,Jeans,Clothing,Resource,2599.15
+P0329,Keyboard,Electronics,Range,656.48
+P0330,Chair,Home,Lawyer,1486.55
+P0331,Lamp,Home,Nearly,4815.29
+P0332,Sql Guide,Books,Kitchen,3619.59
+P0333,Python Book,Books,Hospital,2597.89
+P0334,Table,Home,Two,495.74
+P0335,Lamp,Home,Animal,1241.61
+P0336,Shirt,Clothing,Save,3007.72
+P0337,Table,Home,Next,4243.5
+P0338,Chair,Home,Laugh,3651.16
+P0339,Table,Home,Drop,2872.89
+P0340,Sql Guide,Books,Writer,413.98
+P0341,Lamp,Home,Suffer,4946.0
+P0342,Mouse,Electronics,Meet,1999.82
+P0343,Jacket,Clothing,Strategy,3787.08
+P0344,Ai Handbook,Books,Specific,2525.39
+P0345,Laptop,Electronics,I,4029.63
+P0346,Chair,Home,Hard,2601.75
+P0347,Jacket,Clothing,Perform,1995.13
+P0348,Jacket,Clothing,Summer,4150.03
+P0349,Lamp,Home,Site,2400.72
+P0350,Keyboard,Electronics,Whatever,592.54
+P0351,Lamp,Home,Sort,4498.9
+P0352,Monitor,Electronics,Third,3295.18
+P0353,Ai Handbook,Books,Same,894.03
+P0354,Chair,Home,Parent,1248.87
+P0355,Mouse,Electronics,Billion,2122.96
+P0356,Lamp,Home,Large,2534.01
+P0357,Lamp,Home,Center,3543.59
+P0358,Ai Handbook,Books,Environmental,3328.02
+P0359,Table,Home,Me,2325.33
+P0360,Jacket,Clothing,Space,3871.35
+P0361,Jacket,Clothing,Early,4788.82
+P0362,Jacket,Clothing,Where,4710.35
+P0363,Jeans,Clothing,Town,3466.69
+P0364,Table,Home,Because,2824.41
+P0365,Jeans,Clothing,Federal,4484.01
+P0366,Table,Home,Piece,4032.85
+P0367,Shirt,Clothing,Under,3585.0
+P0368,Jeans,Clothing,Of,3749.33
+P0369,Python Book,Books,Issue,1392.11
+P0370,Shirt,Clothing,Even,1250.17
+P0371,Ai Handbook,Books,Current,545.98
+P0372,Jacket,Clothing,Accept,3421.9
+P0373,Python Book,Books,Security,4890.66
+P0374,Sql Guide,Books,Six,4409.2
+P0375,Table,Home,Strategy,3791.76
+P0376,Jeans,Clothing,Account,342.85
+P0377,Mouse,Electronics,Participant,3629.43
+P0378,Mouse,Electronics,Necessary,4196.14
+P0379,Monitor,Electronics,Buy,972.24
+P0380,Shirt,Clothing,Nature,4645.85
+P0381,Jeans,Clothing,Account,3224.5
+P0382,Chair,Home,How,2366.7
+P0383,Python Book,Books,Real,3669.04
+P0384,Jacket,Clothing,Describe,3964.3
+P0385,Python Book,Books,Rise,3211.69
+P0386,Table,Home,Summer,479.35
+P0387,Mouse,Electronics,Four,2413.4
+P0388,Python Book,Books,Issue,1215.83
+P0389,Jeans,Clothing,High,3628.27
+P0390,Keyboard,Electronics,Both,3479.2
+P0391,Laptop,Electronics,Clear,840.6
+P0392,Jacket,Clothing,Last,1869.34
+P0393,Python Book,Books,Reach,2417.0
+P0394,Lamp,Home,Pay,1899.44
+P0395,Lamp,Home,Environment,4136.74
+P0396,Ai Handbook,Books,Every,4372.02
+P0397,Monitor,Electronics,Top,1840.84
+P0398,Laptop,Electronics,North,4519.3
+P0399,Ai Handbook,Books,Land,864.46
+P0400,Chair,Home,Other,3598.74
+P0401,Chair,Home,History,2255.14
+P0402,Monitor,Electronics,Population,2311.15
+P0403,Monitor,Electronics,Fact,1575.44
+P0404,Monitor,Electronics,Response,64.93
+P0405,Ai Handbook,Books,Industry,1755.42
+P0406,Laptop,Electronics,Someone,391.64
+P0407,Chair,Home,Democrat,940.91
+P0408,Ai Handbook,Books,Job,3247.11
+P0409,Table,Home,Old,1943.27
+P0410,Table,Home,Step,3284.99
+P0411,Shirt,Clothing,Onto,2667.77
+P0412,Python Book,Books,Meeting,4893.53
+P0413,Lamp,Home,Country,2149.43
+P0414,Chair,Home,Hospital,1763.49
+P0415,Shirt,Clothing,Operation,3638.87
+P0416,Laptop,Electronics,One,2125.24
+P0417,Mouse,Electronics,Member,549.44
+P0418,Monitor,Electronics,Environment,3531.27
+P0419,Mouse,Electronics,Food,2041.21
+P0420,Ai Handbook,Books,Participant,4325.46
+P0421,Mouse,Electronics,Guy,1481.85
+P0422,Jacket,Clothing,Staff,3379.03
+P0423,Shirt,Clothing,Season,759.14
+P0424,Sql Guide,Books,Information,351.74
+P0425,Ai Handbook,Books,Simply,2801.46
+P0426,Keyboard,Electronics,Certainly,3373.15
+P0427,Jacket,Clothing,Top,788.63
+P0428,Chair,Home,Treat,2393.92
+P0429,Sql Guide,Books,Receive,764.54
+P0430,Chair,Home,By,4840.54
+P0431,Sql Guide,Books,Small,1056.52
+P0432,Monitor,Electronics,Drug,507.7
+P0433,Python Book,Books,Likely,3384.68
+P0434,Laptop,Electronics,Stay,2423.0
+P0435,Jeans,Clothing,Scene,125.9
+P0436,Ai Handbook,Books,Color,4576.48
+P0437,Sql Guide,Books,Black,2782.79
+P0438,Jeans,Clothing,Difficult,3261.17
+P0439,Jeans,Clothing,Movie,4419.92
+P0440,Chair,Home,Institution,3625.95
+P0441,Shirt,Clothing,Stock,2098.95
+P0442,Ai Handbook,Books,Ground,2788.89
+P0443,Table,Home,Suddenly,1188.59
+P0444,Sql Guide,Books,Oil,4720.15
+P0445,Jeans,Clothing,Positive,2468.67
+P0446,Table,Home,Same,887.87
+P0447,Chair,Home,Return,2733.58
+P0448,Laptop,Electronics,Seat,417.94
+P0449,Laptop,Electronics,Area,4220.6
+P0450,Python Book,Books,College,95.25
+P0451,Table,Home,Improve,3313.46
+P0452,Laptop,Electronics,Provide,2086.13
+P0453,Keyboard,Electronics,Accept,1469.11
+P0454,Chair,Home,Summer,2645.71
+P0455,Python Book,Books,Benefit,1299.47
+P0456,Jeans,Clothing,Than,441.15
+P0457,Table,Home,Check,4951.65
+P0458,Sql Guide,Books,Market,4246.94
+P0459,Laptop,Electronics,With,1916.99
+P0460,Chair,Home,Plan,3529.08
+P0461,Monitor,Electronics,Learn,3242.29
+P0462,Jacket,Clothing,Behavior,4870.51
+P0463,Mouse,Electronics,Attack,4347.18
+P0464,Table,Home,Everyone,3437.92
+P0465,Jacket,Clothing,Doctor,212.86
+P0466,Shirt,Clothing,Hospital,2955.83
+P0467,Chair,Home,Base,2841.59
+P0468,Lamp,Home,Politics,1692.06
+P0469,Ai Handbook,Books,Always,2528.92
+P0470,Shirt,Clothing,Shake,4201.44
+P0471,Jacket,Clothing,If,4776.55
+P0472,Table,Home,Word,3928.56
+P0473,Table,Home,Institution,2787.54
+P0474,Table,Home,Positive,474.19
+P0475,Shirt,Clothing,Reality,456.09
+P0476,Sql Guide,Books,Near,3187.81
+P0477,Table,Home,Few,503.03
+P0478,Jeans,Clothing,Seek,1385.34
+P0479,Python Book,Books,Picture,2807.08
+P0480,Chair,Home,Art,2793.39
+P0481,Jeans,Clothing,Young,1969.61
+P0482,Mouse,Electronics,Staff,889.44
+P0483,Chair,Home,Ten,1378.61
+P0484,Python Book,Books,Continue,2134.46
+P0485,Chair,Home,Push,4723.9
+P0486,Lamp,Home,Miss,2316.42
+P0487,Sql Guide,Books,Leg,1694.48
+P0488,Table,Home,Action,2181.55
+P0489,Sql Guide,Books,Defense,4739.03
+P0490,Sql Guide,Books,To,4824.64
+P0491,Jeans,Clothing,Realize,3182.87
+P0492,Sql Guide,Books,Word,4091.65
+P0493,Table,Home,Summer,2981.52
+P0494,Ai Handbook,Books,National,183.23
+P0495,Lamp,Home,Feeling,3998.54
+P0496,Monitor,Electronics,Day,738.94
+P0497,Shirt,Clothing,Along,813.01
+P0498,Table,Home,Step,2932.11
+P0499,Lamp,Home,Place,3523.09
+P0500,Laptop,Electronics,Mrs,3305.13
